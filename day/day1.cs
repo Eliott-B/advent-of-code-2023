@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace AdventOfCode2023.day
+namespace AdventOfCode2023.Day
 {
 	public static class Day1
 	{

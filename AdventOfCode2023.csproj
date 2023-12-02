@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="day\" />
+    <None Remove="Day\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="day\" />
+    <Folder Include="Day\" />
   </ItemGroup>
 </Project>
