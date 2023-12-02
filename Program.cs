@@ -20,5 +20,8 @@ szInputPath = szProjectPath + "/input/day2";
 //PART 1
 iResult = Day2.Step1(szInputPath);
 Console.WriteLine(iResult);
+// PART 2
+iResult = Day2.Step2(szInputPath);
+Console.WriteLine(iResult);
 
 Console.ReadKey();
