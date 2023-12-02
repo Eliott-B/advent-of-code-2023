@@ -7,11 +7,11 @@ Console.WriteLine("Advent of code 2023");
 // DAY 1
 string szInputPath = szProjectPath + "/input/day1";
 // PART 1
-//int iResult = Day1.Step1(szInputPath);
-//Console.WriteLine(iResult);
+int iResult = Day1.Step1(szInputPath);
+Console.WriteLine(iResult);
 
 // PART 2
-int iResult = Day1.Step2(szInputPath);
+iResult = Day1.Step2(szInputPath);
 Console.WriteLine(iResult);
 
 Console.ReadKey();
